@@ -31,6 +31,7 @@ RetailCo-PowerBI-Project/
 ├── Report/
 │   └── RetailCo_Project_Findings.pdf
 └── README.md
+```
 
 ## 🛠️ Tools & Technologies
 * **SQL**: Data cleaning, filtering, and transformation.
